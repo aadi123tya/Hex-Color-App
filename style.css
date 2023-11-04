@@ -1,0 +1,23 @@
+.big-box
+{
+    border: 2px solid rgb(255, 255, 255);
+    width: 40rem;
+    height: 20rem;
+    margin-top: 10%;
+}
+
+body ,h1,#color-selection{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+   
+}
+
+body{
+    background-color:black;
+}
+input{
+    width:4rem;
+    height: 2rem;
+    border-style: none;
+}
